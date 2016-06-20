@@ -1,3 +1,3 @@
 ##Node.js Practice
 
-Practice using Node.js with Code School
+Practice using Node.js with Code School & Coursera
