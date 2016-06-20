@@ -1,3 +1,4 @@
+//rect object imported as a node module then used to construct a rect object here
 var rect = require('./rectangle-1.js');
 
 function solveRect(l, b) {
